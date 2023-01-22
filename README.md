@@ -24,8 +24,6 @@ edit masukin apikey dari @BotFather di file bot_telegram.php
 $ nano bot_telegram.php
 
 // start bot nya
-
-
 $ php bot_telegram.php
 
 
@@ -43,5 +41,5 @@ edit masukin apikey dari @BotFather di file bot_telegram.php
 
 
 cd telegram-bot
-
+//start bot
 php bot_telegram.php

@@ -1,0 +1,1392 @@
+Ini adalah file kosakata bot
+bot akan memuat teks yang mengandung kosakata dan mengembalikan kalimat balasan
+ytmp3
+* Simbol (=) digunakan untuk memisahkan kalimat input dan output
+* Gunakan simbol (|) untuk memisahkan kalimat input, untuk beberapa variasi kosakata
+^ Setiap kosakata harus diakhiri simbol (;) untuk memisahkan data kosakata
+* Kosakata yang panjang harus diposisikan di awal
+
+⛔ Jangan ubah/hapus bagian petunjuk ini!
+  (bagian petunjuk ini adalah bagian dari array, jika berubah' fungsinya bisa error)
+;
+
+Hai Sayang$                       = 
+ Nama User :%nama
+ Nama Bot : Bot Official Nai Store
+ Nama Owner : @nizar901
+ Prefix : 「 # 」
+ Days : %tanggal November 2022
+ Total Pengguna : 194
+ Runtime : 24 Jam, 52 Detik
+ Speed : 0.6756 Seconds
+ Total Menu : 600+;
+
+#Menu                              =  ┏━━⬣ 𝙐𝙎𝙎𝙀𝙍 𝙄𝙉𝙁𝙊
+┃❏ Haii.. : %nama
+┃❏ Fitur  : Standar
+┃❏ Jam    : %jam
+┃❏ Menit  : %menit
+┗━━⬣
+
+╭─⬣「🔖𝙈𝙀𝙉𝙐 𝙋𝙍𝙀𝙈𝙄𝙐𝙈🔖」⬣
+│ ➣#menupremium
+│ ➣#menumedium
+└⬣
+
+╭─⬣「🕴️𝙊𝙒𝙉𝙀𝙍 𝙈𝙀𝙉𝙐🕴️」⬣
+│ ➣#infobot
+│ ➣#donasi
+│ ➣#owner
+│ ➣#peraturan
+└⬣
+
+╭─⬣「🎭𝙈𝙊𝘿𝙎 𝙈𝙀𝙉𝙐🎭」⬣
+│ ➣#apkhack
+│ ➣#scdeface
+│ ➣#tools
+│ ➣#wamods
+│ ➣#modapk
+│ ➣#grupbot
+└⬣
+
+╭─⬣「🎲𝙆𝙀𝙍𝘼𝙉𝙂 𝙈𝙀𝙉𝙐🎲」⬣
+└⬣[DiNonAktifkan]
+
+╭─⬣「📍𝙉𝙎𝙁𝙒 𝙈𝙀𝙉𝙐 📍」⬣
+└⬣[DiNonAktifkan]
+
+╭─⬣「 🎰𝙁𝙐𝙉 𝙈𝙀𝙉𝙐🎰 」⬣
+│ ❖#nuklircode
+│ ❖#dadu[DiNonAktifkan]
+│ ❖#anime
+│ ❖#tambah followers ig
+└⬣
+
+╭─⬣「🃏𝙈𝘼𝙆𝙀𝙍 𝙈𝙀𝙉𝙐🃏 」⬣
+│ ❖#impostor
+│ ❖#soviet
+│ ❖#coffe
+│ ❖#spongebob
+│ ❖#itik
+│ ❖#cow
+│ ❖#cess
+│ ❖#kereta
+│ ❖#hackerfont1
+│ ❖#maskhacker
+│ ❖#hellofont
+│ ❖#helicopter
+│ ❖#mlfont
+│ ❖#fontff
+│ ❖#tank
+│ ❖#lovefont
+│ ❖#musicfont
+│ ❖#sarangeo
+└⬣
+
+╭─⬣「🎮𝙂𝘼𝙈𝙀 𝙈𝙀𝙉𝙐🎮」⬣
+│ ❖#gtasanlite
+│ ❖#listhp
+│ ❖#cersex
+│ ❖#cersex2
+│ ❖#cersex3
+│ ❖#
+│ ❖#
+└⬣
+
+╭─⬣「💠𝘼𝙋𝙆 𝙋𝙍𝙊💠 」⬣
+│ ❖#apkeditvideo
+│ ❖#apkmusic
+│ ❖#apkeditfoto
+│ ❖#apkjedagjedug
+│ ❖#apkhpsbgfoto
+└⬣
+
+╭─⬣「📛𝘿𝙊𝙎𝘼 𝙈𝙀𝙉𝙐📛」⬣
+│ ❖#dosa1
+│ ❖#dosa2
+└⬣
+
+╭─⬣「🔰𝘾𝙊𝙉𝙑𝙀𝙍𝙏 𝙈𝙀𝙉𝙐🔰」⬣
+│ ❖#ymp3
+│ ❖#ytmp4
+│ ❖#tiktokmp4
+│ ❖#sticker
+└⬣
+
+╭─⬣「📝𝙉𝙐𝙇𝙄𝙎 𝙈𝙀𝙉𝙐📝」⬣
+│ ❖#nuliskuda
+│ ❖#nulissayaganteng
+│ ❖#nulisakusetres
+│ ❖#nulisisalmods
+│ ❖#nulisepepburiq
+│ ❖#nulisakumonyet
+│ ❖#nulisakupintar
+└⬣
+
+╭─⬣「🎖️𝙀𝙓𝙏𝙍𝘼 𝙈𝙀𝙉𝙐🎖️」⬣
+│ ❖#cekgay 
+│ ❖#cekalay
+│ ❖#cekganteng 
+│ ❖#cekcantik 
+│ ❖#cekwibu 
+│ ❖#cektolol 
+│ ❖#cekpintar 
+│ ❖#mengapa 
+│ ❖#Bot on//off
+│ ❖#ban @tag/<no>
+│ ❖#unban @tag/<no>
+│ ❖#set prefix 
+│ ❖#set menu
+│ ❖#template
+└⬣;
+
+#infobot                        =  Pembuat Bot: Nizar Rahman
+Nomor Bot(WA) :wa.me/6281386945391
+Telegram  :@nizar901
+Jenis Script : PHP
+╔═════════
+║ INFO BOT BY Nizar Rahman 
+╠════════════════════
+║╭──❉ INFO BOT ❉─────
+║│➸ BOT NAME: Bot Official Nai Store 〽️
+║│➸ USER : NOT VIP
+║│➸ BOT DATE: %tanggal Juni 2022
+║│➸ POWER BOT: 10%
+║│➸ BOT VERSION : 2.4.0
+║│➸ TIME/HOUR : %jam %menit
+║╰──────────────────
+╠════════════════════
+║
+║              
+║  ▌│█║▌║▌║║▌║▌║█│▌
+║  ▌│█║▌║▌║║▌║▌║█│▌
+║        
+╠════════════════════
+║ POWERED BY Nizar Rahman
+╚════════════════════
+
+DONASI KAK🐣:+6281386945391[Telkomsel Kuota/Pulsa]
+                           :+6281386945391[3 Kuota/Pulsa];
+
+#donasi                         =  Hallo, kak %nama〽️ bantu donasi ya supaya bot lebih baik👋
+╔════════════════════
+║ *DONASI UNTUK Nai Bot Store〽️ *
+╠════════════════════
+║╭──❉ DONASI KAK ❉─────
+║│➸ PULSA Telkomsel: 6281386945391
+║│➸ PULSA 3:6281386945391
+║│
+║╰──────────────────
+╠════════════════════
+║
+║             
+║  ▌│█║▌║▌║║▌║▌║█│▌
+║  ▌│█║▌║▌║║▌║▌║█│▌
+║        
+╠════════════════════
+║ POWERED BY Nai Bot Telegram Offcial 〽️
+╚════════════════════
+
+
+Note:
+ KIRIM BUKTI TRANSFER KE OWNER:)
+
+Nyari nomor owner??,ketik #owner;
+
+#owner                          =  Ni Kak %nama @nizar901;
+
+#peraturan                      =  ⚙️PERATURAN⚙️
+╔════════════════╗
+║▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣
+╠⌦ ❗DONT CALL
+╠⌦ ❗DONT SPAM
+╠⌦ ❗DONT TOXIC
+╠⌦ ❗DONT RASIS
+╠⌦ ❗DONT PORNO
+╠⌦ ❗DONT GAY
+╠⌦ ❗DONT NGEGAS
+╠⌦ ❗DONT BULLY
+╠⌦ ❗DONT MAKSA
+║▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣
+╠════════════════╝
+╠⌦ ❗LANGGAR BLOCK
+╠════════════════╝
+║             
+║   ▌│█║▌║▌║║▌║▌║█│▌
+║   ▌│█║▌║▌║║▌║▌║█│▌
+║      Nai Store Telegram
+╚════════════════╝;
+
+#apkhack                        = ╭─「 Nai Store 」
+║╭─────  
+║├「INFORMATION」
+║│ USERNAME: %nama
+║│ ACCOUNT : STANDAR
+║│ DATE: %tanggal MARET 2021
+║│ POWER: 10%
+║│ VERSION : 1.0 Beta
+║│ TIME/HOUR : %jam %menit
+║╰─────       
+╠「LIST MENU 」
+╠ #termux
+╠ #linux
+╠ #anonhackbar
+╠ #dhhackbr
+╠ #droidhackbar
+╠ #scriptdroid
+╠ #webdav
+╠ #wxd
+╠ #droidsqli
+║
+╠「 WARNING 」
+║#req gunanya untuk requests
+║aplikasi yang anda inginkan agar
+║ada di menu bot
+║
+║
+╰─「©By Nizar Rahman」;
+
+#termux                         = 🔰TERMUX MOD APK TERBARU 🔰
+
+Termux Mod.apk
+Link:
+https://www.mediafire.com/file/ltbb7j1p0loy5xh/Termux_0.117.apk/file ;
+
+#linux                          = Linux adalah Terminal hacking yang sangat populer di kalangan nya, dan untuk cara install nya agak timur di jelaskan dengan kata kata, karena itu kamu bisa cek di link YouTube Wanz Xploit
+
+Link: https://youtu.be/8obt6MUInY8;
+
+#anonhackbar                    = AnonHackbar adalah aplikasi Hack bar yang sangat populer dan ini gunanya  untuk membantu kalian melakukan BugHunter
+
+Link: https://safefileku.com/download/wKufuA5EovdJGIl;
+
+#dhhackbr                       = Menu Error;
+
+#droidhackbar                   = Menu Error;
+
+#scriptdroid                    = Script Droid adalah aplikasi yang di gunakan untuk Membuat sc Deface secara instan
+
+Link: https://safefileku.com/download/gZGt9OEFDjkSg2Q;
+
+#webdav                         = Webdav adalah aplikasi Hack Website (Deface) nah ini adalah aplikasi Deface yang mudah di gunakan dan sangat simpel dan bisa tebas index,.
+
+Link: https://safefileku.com/download/RUZR3zEgJt4zaMS;
+#wxd                            = Aplikasi ini adalah aplikasi Hack Website yang mempunyai beberbagai Tools lain
+
+Link: https://safefileku.com/download/hk6kFe16EjzxvMJ;
+
+#droidsqli                      = aplikasi ini adalah aplikasi sqli yang sangat di minati para hacker untuk melakukan sqli dengan instan
+
+Link: https://safefileku.com/download/w3jXQXw1OEd1WdG;
+
+#scdeface                       = Menu Error;
+
+#tools                          = ╭─「 Nai Bot Store〽️ 」
+║╭─────  
+║├「 lNFORMATION 」
+║│ USERNAME: %nama
+║│ ACCOUNT : STANDAR
+║│ DATE: %tanggal MARET 2021
+║│ POWER BOT: 10%
+║│ BOT VERSION : 1.0[BETA]
+║│ TIME/HOUR : %jam %menit
+║╰─────       
+╠「LIST MENU」
+╠ #darkfb
+╠ #phising
+╠ #nmap
+╠ #bughunter
+╠ #redhawk
+╠ #sqlmap
+╠ #daijoubu
+╠ #webdavtools
+╠ #kodrok
+╠ #inurl
+╠ #adminfinder
+╠ #cakil
+╠ #lazymux
+╠ #weeman
+║
+╠「 WARNING 」
+║Ini adalah tools paling work
+║yang kami kumpulkan dari
+║beberapa Website.
+║
+╰─「©By Nizar」;
+
+#darkfb                         = TOOLS DARK FB V1.9
+
+$ pkg install git python2
+
+$ pip2 install mechanize requests
+
+$ git clone https://github.com/storiku/darkfb1.9
+
+$ cd darkfb1.9
+
+$ python2 dark.pyc
+
+ID: Termux
+Pass: omaliptv;
+
+#phising                        = TOOLS PHISING TERBARU
+
+$ pkg update && upgrade
+
+$ pkg install wget
+
+$ pkg install ssh
+
+$ pkg install php
+
+$ git clone https://github.com/xHak9x/SocialPhish
+
+$ cd SocialPhish
+
+$ chmod +x *
+
+$ ./socialphish.sh;
+
+#nmap                           = TOOLS NMAP TERMUX
+
+$ pkg update && upgrade
+
+$ pkg install nmap
+
+$ nmap [Scan Type(s)] [Options] {target specification}
+
+untuk menampilkan bantuan opsi yang disediakan nmap cukup ketikan
+
+$ nmap -help;
+
+#bughunter                      = TOOLS BUGHUNTER
+
+$ pkg update && pkg upgrade
+
+$ pkg install git
+$ pkg install python
+$ pkg install python2
+$ git clone https://github.com/thehackingsage/bughunter.git
+$ ls
+$ cd bughunter
+$ ls
+$ chmod +x bughunter.py
+
+Lalu kita saatnya tahap menjalankan si bug hunternya dengan cara
+
+$ python2 bughunter.py
+
+Lalu cari lah no yang sesuai untuk menjadi bahan pentesting;
+
+#redhawk                        = TOOLS REDHAWK
+
+$ apt update
+$ apt install git
+$ git clone https://github.com/Tuhinshubhra/RED_HAWK
+$ cd RED_HAWK
+$ chmod +x rhawk.php
+$ apt install php
+$ ls
+$ php rhawk.php
+
+Cara memakainya? Pastekan saja site kalian kedalam situ terus kalian akan bertemu di tahap ke dua pastekan lagi tinggal kalian hapus http/https kalian karena sudah tersedia di tools nya dan terus enter;
+
+#sqlmap                         = SQLMAP TERMUX
+
+$ apt update && apt upgrade
+$ apt install git
+$ pkg install python2
+$ git clone https://github.com/sqlmapproject/sqlmap
+
+$ cd sqlmap
+$ python2 sqlmap.py;
+
+#daijoubu                       = *Tools daijoubu*
+
+$apt upgrade && apt update
+$apt install php
+$apt install git
+Kalo udah selesai langsung masukan git nya dengan perintah
+$git clone https://github.com/alintamvanz/diejoubu
+$cd diejoubu
+$cd v1.2
+$php daijobu.php;
+
+#kodrok                         = Script Rusak;
+
+#webdavtools                    = TOOLS WEBDAV
+
+
+$ apt update && upgrade
+$ apt install python2
+$ pip2 install urllib3 chardet certifi idna requests
+$ apt install openssl curl
+$ pkg install libcurl
+$ ln -s /sdcard
+$ cd sdcard
+$ mkdir webdav
+$ cd webdav
+
+Tools ini untuk membantu mengupload html anda saja menjadi defeace;
+
+#inurl                          = TOOLS INURL
+
+$ apt update
+$ apt upgrade
+$ pkg install php
+$ pkg install git
+$ git clone https://github.com/googleinurl/SCANNER-INURLBR.git
+$ cd SCANNER-INURLBR
+$ php inurlbr.php
+
+Fungsi nya Mencari INURL-BRL situs di internet;
+
+#adminfinder                    = Install admin finder in termux
+
+$ apt update && apt upgrade
+$ pkg install python2
+$ pkg install git
+$ git clone https://github.com/AdheBolo/AdminFinder
+
+$ ls
+$ cd AdminFinder
+$ chmod 777 AdminFinder.py
+$ python2 AdminFinder.py;
+
+#cakil                          = TOOLS MR.CAKIL
+
+$apt update && apt upgrade
+$pkg install git
+$git clone https://github.com/mrcakil/Mrcakil.git
+$cd Mrcakil
+&chmod +x tools
+$./tools;
+
+#lazymux                        = TOOLS LAZYMUX
+
+$ apt update && apt upgrade
+$ apt install git
+$ apt install python
+$ apt install python2
+$ git clone https://github.com/Gameye98/Lazymux.git
+$ cd Lazymux
+$ python2 lazymux.py;
+
+#weeman                         = TOOLS WEEMAN
+
+$ apt update && apt upgrade
+$ pkg install git
+$ pkg install python2
+$ pip2 install bs4
+$ pip2 install beautifulsoup
+$ git clone https://github.com/evait-security/weeman
+
+cd weeman
+python2 weeman.py;
+
+#wamods                         = Download Wa [ HW MODS ] Anti Virus Di Bawah ini🤖
+
+[ https://www.mediafire.com/file/lvw4guvpz6bfmvh/WhatsApp_2.20.207.19.apk/file ]
+
+    
+       Powered by Nizar Rahman;
+
+#modapk                         =  •Auto Responder For WhatsApp
+https://www.mediafire.com/file/mbjiw1v7gx2beum/AutoResponder_untuk_WA_2.4.0.apk/file
+• Minecraft (Original)
+https://www.mediafire.com/file/4hixmktsfkhky91/Minecraft_v1.16.101.01_Terbaru.zip/file
+• Geometry Dash (MOD)
+http://www.mediafire.com/file/thnoi1wpa5ex2wn/Geometry_Dash_%2528MOD%2529.apk/file
+• KineMaster (PRO)
+https://www.mediafire.com/download/eshb8rra8eg5xa3
+• KineMaster Diamond (MOD)
+https://www.mediafire.com/download/9p8wsnwupnq0lun
+• KineMaster Ruby (MOD)
+https://www.mediafire.com/download/6b2wa08cmtsr8x8
+• Adobe Photoshop (Original)
+https://www.mediafire.com/download/whfh12tj4zjpedp
+• Alight Motion (PRO)
+http://www.mediafire.com/file/tpxj2grwf8imp6i/Alight_Motion_V.3.1.4_%2528Mod%2529_By_bilqis_neha.apk/file
+• Avee Player (PRO)
+https://www.mediafire.com/download/5vkde8d1gcyk33y
+• Pixellab (PRO)
+https://www.mediafire.com/download/kxj0xyvrkc8w6h0
+• Inshot (PRO)
+https://www.mediafire.com/download/7qcmrfdy2o1ynxf
+• WavePad (PRO)
+https://www.mediafire.com/download/oif50qb8ltdoe2x
+• Vimage (PRO)
+https://www.mediafire.com/download/egjumopr2wl89tl
+• Zeotropic (PRO)
+https://www.mediafire.com/download/tw9zwj2km2tjsnh
+• 90s (PRO)
+https://www.mediafire.com/download/0y2bba69f6wakuh;
+
+#grupbot                        = Grup Official :https://chat.whatsapp.com/BWHiCcMOZG39gYt1HCc2ue;
+
+#intro                          = 🐣INTRO DULU KAK🐣
+╭━━━━━━━━━━━━━
+│【♡ۣۜۜ፝͜͜͡͡✿➣ NAME:
+│【♡ۣۜۜ፝͜͜͡͡✿➣ GENDER:
+│【♡ۣۜۜ፝͜͜͡͡✿➣ ASKOT:
+│【♡ۣۜۜ፝͜͜͡͡✿➣ NAMA IG:
+│【♡ۣۜۜ፝͜͜͡͡✿➣ NAMA DOI:
+│【♡ۣۜۜ፝͜͜͡͡✿➣ FAVORIT:
+│【♡ۣۜۜ፝͜͜͡͡✿➣ HOBBY:
+╰━━━━━━━━━━━━━
+༆●SEMOGA BETAH<3●༆
+
+   © Created By Nizar;
+
+#pantun                         = Menu Dimatikan;
+
+#puisi                          = Menu Dimatikan;
+
+#nuklircode                     = 266116 217037 160657 182439
+205089 176495 199121 199425
+184068 186615 224644 129479
+251524 153374 146499 258212
+163532 255244 269825 235914
+247103 138365 124624 219718
+168941 265918 205995 191390
+‌225496 259137 231681 161688
+‌199613 259260 260433 235532 
+‌88323 272117 170213 256613
+‌258382 224942;
+
+#template                       = • Template Mine Imator
+http://www.mediafire.com/file/cxa8io0j0i3a0x4/Mine-Imator_%2528Template_Pika_Gamer%2529_Edited.zip/file
+
+• 50 Template Avee Player 1
+https://realsht.mobi/teCTj
+
+• 50 Template Avee Player 2
+https://realsht.mobi/hhSMc
+
+• Template Quotes Rainbow
+https://realsht.mobi/LbmVw
+
+• Template Quotes 1
+https://realsht.mobi/GZuvl
+
+• Template Quotes 2
+https://realsht.mobi/lFLqm
+
+• Template Quotes 3
+https://realsht.mobi/prMyC
+
+• Template Quotes 4
+https://realsht.mobi/FyGha
+
+• Template Quotes 5
+https://realsht.mobi/LdpNd
+
+• Template Quotes 6
+https://realsht.mobi/BdlQe
+
+• Template Quotes 7
+https://realsht.mobi/fdZCs
+
+• Template Quotes 8
+https://realsht.mobi/YkqIk
+
+• Template Quotes 9
+https://realsht.mobi/BcKdr
+
+• Template Quotes 10
+https://realsht.mobi/MaZno
+
+• Template Mega Colab
+https://realsht.mobi/JinWs
+
+• Template Colab 1
+https://realsht.mobi/bocSM
+
+• Template Colab 2
+https://realsht.mobi/eJwLd
+
+• Template Colab 3
+https://realsht.mobi/tGMxp
+
+• Template Colab 4
+https://realsht.mobi/oQtWo
+
+• Template Colab 5
+https://realsht.mobi/rbvWQ
+
+• Template Wajah Orang
+https://realsht.mobi/tGMxp
+
+• Template Kacamata
+https://realsht.mobi/MpoKs
+
+• Template Unix 1
+https://realsht.mobi/dfToI
+
+• Template Unix 2
+https://realsht.mobi/hRMsq
+
+• Template Partikel
+https://realsht.mobi/wOMlc
+
+• Template Pistol
+https://realsht.mobi/exXCy
+
+• Template Solo
+https://realsht.mobi/MvYbm;
+
+#impostor                       = ⠀⠀⠀⠀⠀⠀⣠⣴⣶⣿⠿⢿⣶⣶⣦⣄⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⣼⡿⠋⠁⠀⠀⠀⢀⣈⠙⢿⣷⡄⠀⠀
+⠀⠀⠀⠀⢸⣿⠁⠀⢀⣴⣿⠿⠿⠿⠿⠿⢿⣷⣄⠀
+⠀⢀⣀⣠⣾⣿⡇⠀⣾⣿⡄⠀⠀⠀⠀⠀⠀⠀⠹⣧
+⣾⡿⠉⠉⣿⠀⡇⠀⠸⣿⡌⠓⠶⠤⣤⡤⠶⢚⣻⡟
+⣿⣧⠖⠒⣿⡄⡇⠀⠀⠙⢿⣷⣶⣶⣶⣶⣶⢿⣿⠀
+⣿⡇⠀⠀⣿⡇⢰⠀⠀⠀⠀⠈⠉⠉⠉⠁⠀⠀⣿⠀
+⣿⡇⠀⠀⣿⡇⠈⡄⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⠀
+⣿⣷⠀⠀⣿⡇⠀⠘⠦⣄⣀⣀⣀⣀⣀⡤⠊⠀⣿⠀
+⢿⣿⣤⣀⣿⡇⠀⠀⠀⢀⣀⣉⡉⠁⣀⡀⠀⣾⡟⠀
+⠀⠉⠛⠛⣿⡇⠀⠀⠀⠀⣿⡟⣿⡟⠋⠀⢰⣿⠃⠀
+⠀⠀⠀⠀⣿⣧⠀⠀⠀⢀⣿⠃⣿⣇⠀⢀⣸⡯⠀⠀
+⠀⠀⠀⠀⠹⢿⣶⣶⣶⠿⠃⠀⠈⠛⠛⠛⠛⠁⠀⠀;
+
+#anime                          = Fitur Maintance
+
+#soviet                         = ⠀                         ⠉⠲⣤⡀
+⠀⠀⠀⠀⠀⠀⢀⣤⣀⣀⣀⠀⠈⠻⣷⣄
+⠀⠀⠀⠀⢀⣴⣿⣿⣿⡿⠋⠀⠀⠀⠹⣿⣦⡀
+⠀⠀⢀⣴⣿⣿⣿⣿⣏⠀⠀⠀⠀⠀⠀⢹⣿⣧
+⠀⠀⠙⢿⣿⡿⠋⠻⣿⣿⣦⡀⠀⠀⠀⢸⣿⣿⡆
+⠀⠀⠀⠀⠉⠀⠀⠀⠈⠻⣿⣿⣦⡀⠀⢸⣿⣿⡇
+⠀⠀⠀⠀⢀⣀⣄⡀⠀⠀⠈⠻⣿⣿⣶⣿⣿⣿⠁
+⠀⠀⠀⣠⣿⣿⢿⣿⣶⣶⣶⣶⣾⣿⣿⣿⣿⡁
+⢠⣶⣿⣿⠋⠀⠀⠉⠛⠿⠿⠿⠿⠿⠛⠻⣿⣿⣦⡀
+⣿⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿
+
+#coffe                          = ∴∴∴︴︴︴︴︴
+∴∴◤▔▔▔▔◥❚❘⊢╮
+∴∴▉▒▒▒▒▒▉❘﹍〡
+∴∴▇▒▒▒▒▒▇❘⊢╯
+∴∴◥▇▇▇▇◤
+∴◥▇▇▇▇▇▇◤
+◒𝕐𝕠𝕜🄽🄶🄾🄿🄸🅑🅞🅢🅚🅤◒;
+
+#spongebob                      = . ___________________
+▕╮╭┻┻╮╭┻┻╮╭▕╮╲
+▕╯┃╭╮┃┃╭╮┃╰▕╯╭▏
+▕╭┻┻┻┛┗┻┻┛   ▕  ╰▏
+▕╰━━━┓┈┈┈╭╮▕╭╮▏
+▕╭╮╰┳┳┳┳╯╰╯▕╰╯▏
+▕╰╯┈┗┛┗┛┈╭╮▕╮┈▏;
+
+#itik                           = ┊┊╭━━━╮┊┊╭━━━╮┊┊
+┊┊┃┈▋▋┃┊┊┃▋▋┈┃┊┊
+┏━╯┈┈┈◣┊┊◢┈┈┈╰━┓
+┃┗━╯┈┈┃┊┊┃┈┈╰━┛┃
+╰━┳━┳━╯┊┊╰━┳━┳━╯
+━━┻━┻━━━━━━┻━┻━━;
+
+#cow                            = .  ╭┐┌╮☆°．·
+╭┘└┘└╮∴°☆°
+└┐．．┌———╮∴°
+╭┴———┤          ├╮
+│ｏ　ｏ│　  　│●°
+╰┬———╯          │ ∴°·
+ ☆\ˍˍ\_ˍ|—|ˍˍ/ˍˍ/∴☆.;
+
+#cess                           = ☆┌─┐  ─┐☆
+　│▒│ /▒/
+　│▒│/▒/
+　│▒ /▒/─┬─┐◯
+　│▒│▒|▒│▒│
+┌┴─┴─┐-┘─┘
+│▒┌──┘▒▒▒│◯
+└┐▒▒▒▒▒▒┌┘
+◯└┐▒▒▒▒┌;
+
+#kereta                         = ╭━ ♥━ ♥━ ♥━ ♥━ 
+╰╮┏━┳┳┳┓  ┏┳┳┳┳┳┓
+┏┻╋━╋┻┻┫  ┣┻┻┻┻┻┫
+┗ⓞ━━━ⓞ┻━┻ⓞ━━┻ⓞ━━ⓞ╯;
+
+#hackerfont1                    = ◢▃▃▃▃◤▔▔▔◥▃▃▃▃◣
+  ✺�𝙷𝙰𝙲𝙺 ☬𝐂𝐲𝐛𝐞𝐫𝐓𝐞𝐚𝐦�✺ ◥▔▔▔▔◣▃▃▃◢▔▔▔▔◤;
+
+#maskhacker                     = ▇▇▇◤▔▔▔▔▔▔▔◥▇▇▇ ▇▇▇▏◥▇◣┊◢▇◤▕▇▇▇ ▇▇▇▏▃▆▅▎▅▆▃▕▇▇▇ ▇▇▇▏╱▔▕▎▔▔╲▕▇▇▇ ▇▇▇◣◣▃▅▎▅▃◢◢▇▇▇ ▇▇▇▇◣◥▅▅▅◤◢▇▇▇▇ ▇▇▇▇▇◣╲▇╱◢▇▇▇▇▇ ▇▇▇▇▇▇◣▇◢▇▇▇▇▇▇;
+
+#hellofont                      = ╔╗╔╗╔═╗╔╗─╔╗─╔═╗   ║╚╝║║╦╝║║─║║─║║║   ║╔╗║║╩╗║╚╗║╚╗║║║   ╚╝╚╝╚═╝╚═╝╚═╝╚═╝;
+
+#helicopter                     = ..... ╭╬╮◢ 
+_╭▅񾆈▇▆▅▄▃▂▁(╳)█╮ ..
+   ╰═▃_▁∠════▔▔▔;
+
+#mlfont                         = ◥🄼🄾🄱🄸🄻🄴◤ ╭═══════╮
+╰═══════╯◢🄻🄴🄶🄴🄽🄳◣;
+
+#fontff                         = ◥Ⓕ︎Ⓡ︎Ⓔ︎Ⓔ︎◤ ╭═════╮
+╰═════╯◢Ⓕ︎Ⓘ︎Ⓡ︎Ⓔ︎◣;
+
+#tank                           = .        (҂`_´)     <,︻╦̵̵̿╤─ ҉     ~  • █۞███████]▄▄▄▄▄▄▄▄▄▄▃ ●●● ▂▄▅█████████▅▄▃▂… [███████████████████] ◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙;
+
+#lovefont                       = *█████████████████████*
+*█▄─▄███─▄▄─█▄─█─▄█─▄█*
+*██─██▀█─██─██─█─██─▄█*
+*▀▄▄▄▄▄▀▄▄▄▄▀▀▄▄▄▀▀▄▄▀*;
+
+#musicfont                      = ♫♪.     ılılıl l|̲̅̅●̲̅̅|̲̅̅=̲̅̅|̲̅̅●̲̅̅|  llılılı    .♫♪
+02:34━━━●━━━━━━05:00
+   ⇆          «    ⦷    »         ↻;
+
+#sarangeo                       = ⠀      ｡ﾟﾟ･｡･ﾟﾟ｡
+         ﾟ。    　｡ﾟ
+             ﾟ･｡･ﾟ
+       ︵               ︵ 
+    (        ╲       /       /
+      ╲          ╲/       /
+           ╲          ╲  /
+          ╭ ͡   ╲           ╲
+     ╭ ͡   ╲        ╲       ﾉ
+╭ ͡   ╲        ╲         ╱
+ ╲       ╲          ╱
+      ╲         ╱
+          ︶
+..................................;
+
+#gtasanlite                     = BERIKUT ADALAH LINK GTA SAN ANDROID GRATIS 
+[ LINK APK: https://www.mediafire.com/file/z6ms3ovfqftzwsh/APK+GTA+SA+V1.0.8.7z/file ]
+[ LINK OBB: https://www.mediafire.com/file/3xl7gqpoktukhg4/OBB+GTA+SA+ORIGINAL+V1.0.8.7z/file ]
+
+Password: Subscribe Fadil Pa;
+
+#apkeditfoto                    = 1. Kine Master : https://play.google.com/store/apps/details?id=com.nexstreaming.app.kinemasterfree
+
+2. Viva Video :
+https://play.google.com/store/apps/details?id/com.quvideo.xiaoying
+
+3. Power Director :
+https://play.google.com/store/apps/details?id=com.cyberlink.powerdirector.DRA140225_01
+
+4. VN :
+https://play.google.com/store/apps/details?id=com.frontrow.vlog
+
+5. Inshot : 
+https://play.google.com/store/apps/details?id=com.camerasideas.instashot
+
+       Powered by Nizar Rahman;
+
+#apkmusic                       = 1. FL studio mobile :
+https://play.google.com/store/apps/details?id=com.imageline.FLM
+2. Walk Band :
+https://play.google.com/store/apps/details?id=com.gamestar.pianoperfect
+3. n-Track Studio :
+https://play.google.com/store/apps/details?id=com.ntrack.studio.demo
+4. Music Studio Lite : 
+https://play.google.com/store/apps/details?id=com.xewton.musicstudiolite
+5. Bandlab :
+https://play.google.com/store/apps/details?id=com.bandlab.bandlab;
+
+#apkeditfoto                    = 1. Pixellab :
+https://play.google.com/store/apps/details?id=com.imaginstudio.imagetools.pixellab
+
+2. PiscArt :
+https://play.google.com/store/apps/details?id=com.picsart.studio
+
+3. PicSay : 
+https://play.google.com/store/apps/details?id=com.shinycore.picsayfree
+
+4. Photo Editor :
+https://play.google.com/store/apps/details?id=com.iudesk.android.photo.editor
+
+5. Pixlr
+https://play.google.com/store/apps/details?id=com.pixlr.express
+
+      Powered by Nizar Rahman;
+
+#apkjedagjedug                  = 1. Alight Montion :
+https://play.google.com/store/apps/details?id=com.alightcreative.motion
+
+2. CapCut :
+https://play.google.com/store/apps/details?id=com.lemon.lvoverseas
+
+3. VN : 
+https://play.google.com/store/apps/details?id=com.frontrow.vlog
+
+4. Kine Master :
+https://play.google.com/store/apps/details?id=com.nexstreaming.app.kinemasterfree
+
+5. Inshot :
+https://play.google.com/store/apps/details?id=com.camerasideas.instashot;
+
+#apkhpsbgfoto                   = *_Hapus Background Foto Adalah Editing Hal Yang Gampang Gampang
+Susah Karena Kita Harus Menghapus Background Dari Foto Dan Mengambil Foto Yang Tidak Kita Hapus_*
+
+_YnzBotZ🤖 Telah Menyediakan 2 Apk/Cara Untuk hapus Background:_
+
+1. Cara Instan
+
+Di Cara Instan Ini Kita Tidak Perlu Susah Payah Untuk Menghapus Background , Yang Kita Lakukan Hanyalah Buka " Google " Lalu Search/ketik remove.bg setelah itu kita pilih upload image setelah itu kita pilih foto mana yang akan kita hapus backgroundnya , jika sudah tunggu sampai slesai , dan jika sudah selesai tinggal kita eksport dengan klik tombol download 
+
+2. Cara noninstan
+
+Noninstan/tidak instan ini Kita Harus Hapus Background Sendiri Dengan Cara Hapus Perlahan Background Foto Dengan Berhati-hati Agak Hasil Foto Bagus ,
+Berikut Beberapa Apk Yang Bisa Kita Gunakan :
+
+ Pixellab
+ Piscart
+ Picsay;
+
+#dosa1                          = 么
+
+𝙉𝙄𝙃 𝘽𝙀𝘽 𝙅𝘼𝙉 𝙉𝙔𝘼𝘽𝙐𝙉 𝙔𝘼... 𝘼𝙋𝘼 𝙇𝘼𝙂𝙄 𝙉𝙂𝙀𝙉..𝙐𝙃𝙃
+
+𝙇𝙄𝙉𝙆 𝙉𝙔𝘼 : http://164.68.127.15/?id=Sma
+
+𝙑𝙄𝘿𝙀𝙊 𝘿𝙊𝙎𝘼
+
+👾©Nizar Rahman👾;
+
+#dosa2                          = 么
+
+𝙉𝙄𝙃 𝘽𝙀𝘽 𝙅𝘼𝙉 𝙉𝙔𝘼𝘽𝙐𝙉 𝙔𝘼... 𝘼𝙋𝘼 𝙇𝘼𝙂𝙄 𝙉𝙂𝙀𝙉..𝙐𝙃𝙃
+
+𝙇𝙄𝙉𝙆 𝙉𝙔𝘼 : https://www.mediafire.com/file/arpphhxsv94ak0r/VID-20210107-WA1462.mp4/file
+
+𝙑𝙄𝘿𝙀𝙊 𝘿𝙊𝙎𝘼 ( 4 )
+
+👾 𝙎𝘾 𝘽𝙔 Nizar Rahman;
+
+#listhp                           = 📱List Hp Yg Tersedia Di Tahun 2021
+
+╔══❀ ❬ LIST HP ❭ ❀══╗
+╠-❥ #samsung
+╠-❥ #oppo
+╠-❥ #realme
+╠-❥ #xiaomi
+╠-❥ #redmi
+╠-❥ #poco
+╠-❥ #nokia
+╚══════════════╝;
+
+#samsung                         = 1. Samsung Galaxy M30s
+Harga: Rp 3.299.000
+Hp samsung galaxy m30s tl
+Spesifikasi Samsung Galaxy M30s:
+Layar: 6,4” FHD+Super AMOLED Infinity-U Display
+Dimensi: 159 x 75,1 x 8,9 mm
+SIM Card: Dual SIM (SIM 1 + SIM 2 + MicroSD)
+Kamera: Main: 48MP, F2.0Ultra Wide: 8MP, F2.2 (123o)Depth: 5MP, F2.0
+Chipset: Exynos 9611
+Prosesor: Octa Core 2.3GHz,1.7GHz
+OS: Android 9.0 (Pie)
+Memori: 4GB RAM 64 GB Internal
+Storage: MicroSD Up to 512 GB
+Biometrik: Rear Fingerprint
+Baterai: 6.000 mAh dengan teknologi Fast Charging
+Warna: Black, Blue, White
+Desain: Glossy Plastic
+
+2. Samsung Galaxy A20s
+Harga: Rp 2,4 juta
+Hp samsung terbaru galaxy a20s
+Spesifikasi Samsung Galaxy A20s:
+9Display: IPS LCD, 6.5 inches, 103.7 cm2 (~81.9% screen-to-body ratio)
+Resolusi: 720 x 1560 pixels, 19.5:9 ratio (~264 ppi density)
+OS: Android 9.0 (Pie)
+Chipset: Qualcomm SDM450 Snapdragon 450 (14 nm)
+CPU: Octa-core 1.8 GHz Cortex-A53
+GPU: Adreno 506
+RAM: 3/32GB, 4/64GB
+Memori eksternal: microSD, up to 1 TB (dedicated slot)
+Kamera Utama: Triple (13 MP, f/1.8, 27mm (wide), PDAF; 5 MP, f/2.2, 13mm (ultrawide); 5 MP); f/2.2, depth sensor; LED flash, panorama, HDR
+Video: 1080p@30fps
+Kamera Selfie: 8 MP, f/2.0
+NFC: Tidak ada
+USB: Type-C 1.0 reversible connector
+Baterai: Li-Po 4000 mAh, Fast battery charging 15W
+Warna: Black, Blue, Red, Green
+
+3. Samsung Galaxy A10s
+Harga: Rp 1.899.000
+samsung galaxy a10s
+Spesifikasi Samsung Galaxy A10s:
+Dimensi: 156.9 x 75.8 x 7.8mm
+Warna: Merah, Hijau, dan Hitam
+Layar: 6.2-inch HD+ (720×1520)PLS, Infinity Display
+Kamera belakang: 13MP (F1.8) + 2MP (F2.4)
+Kamera selfie: 8MP (F2.0)
+OS: Android 9.0 (Pie)
+RAM: 2GB RAM
+ROM: 32GB
+Memori eksternal: Micro SD slot (up to 512GB)
+Baterai: 4000 mAh
+Biometric Authentications: Rear Fingerprint,Face Recognition
+
+🔰Nai Bot Store🔰;
+
+#oppo                            = 1. OPPO Reno2
+Harga: Rp 7.999.000
+spek dan harga oppo reno 2 terbaru
+Spesifikasi Oppo Reno2:
+OS: Android 9.0 Pie
+Chipset: Qualcomm SDM730 Snapdragon 730G (8 nm)
+CPU: Octa-core (2×2,2 GHz Kryo 470 Gold & 6×1,8 GHz Kryo 470 Silver)
+GPU: Adreno 618
+RAM: 8 GB
+Internal Memori: 256 GB
+Eksternal Memori: microSD 256 GB
+Layar: 6.5 inci, 1080 x 2400 piksel, 20:9 ratio
+Kamera utama: 48 MP f/1.7 + 13 MP f/2.4 + 8 MP + 2 MP
+Kamera depan: 16 MP
+Baterai: 4.000 mAh
+Konektivitas: Type-C 1.0, Wi-Fi 802.11, Bluetooth 5.0, FM Radio, Jack Audio 3.5 mm
+Jaringan: Hybrid Dual SIM (Nano-SIM, dual stand-by)
+Dimensi: –
+Berat: –
+Warna: Sunset Pink, Ocean Blue, Luminous Black
+
+2. OPPO Reno2 F
+Harga: Rp 5.399.000
+Hp oppo reno 2f
+Spesifikasi OPPO Reno2 F:
+6.5-inch Full HD+ AMOLED Display, 2.5D Glass
+19.5:9 aspect ratio
+Mediatek Helio P70 octa-core 2.1GHz
+Mali-G72 MP3 GPU
+RAM 8GB
+ROM 128GB (microsd slot)
+K.Belakang Quad: 48 MP f/1.79, Samsung ISOCELL GM1 + 8 MP f/2.2 wide-angle + 2 MP f/2.4 Mono + 2 MP f/2.4 Depth, Portrait Mode, PDAF, LED flash
+K.Depan 16 MP f/2.0
+Android 9 Pie with ColorOS 6.1
+Audio: Dolby Atmos
+4G LTE, In-Display Fingerprint, USB Type-C
+Baterai 4000mAh with VOOC 3.0 fast charging
+Warna: Lake Blue dan Sky White
+
+3. OPPO A9 2020
+Harga: Rp 4.000.000
+Hp oppo terbaru a9 2020
+Spesifikasi OPPO A9 2020:
+Layar: 6.5-inch Full HD+ Display
+Chipset: Snapdragon 665 octa-core
+OS: Android 9 Pie with ColorOS 6.1
+RAM: 8GB
+ROM: 128GB
+Kamera Belakang: Quad: 48 MP + 8 MP wide-angle + 2 MP Depth + 2 MP Macro
+Kamera Depan: 16 MP
+Baterai: 5000 mAh
+Warna: Marine Green dan Space Purple
+
+🔰Nai Bot Store🔰;
+
+#realme                          = 1. Realme 5S
+Harga: Rp 2.699.000
+realme 5s hp 2 jutaan
+Spesifikasi Realme 5S:
+SIM: Dual SIM (Nano-SIM, dual stand-by)
+Layar: IPS LCD, 6.5 inci, Splash resistant, Corning Gorilla Glass 3+
+Resolusi: 720 x 1600 pixels, 20:9 ratio (~269 ppi density)
+OS: Android 9.0 (Pie); ColorOS 6
+Chipset: Qualcomm SDM665 Snapdragon 665 (11 nm)
+CPU: Octa-core (4×2.0 GHz Kryo 260 Gold & 4×1.8 GHz Kryo 260 Silver)
+GPU: Adreno 610
+Memori eksternal: microSD, up to 256 GB (dedicated slot)
+RAM/ROM: 4/64GB, 4/128GB 
+Kamera Utama: Quad (48 MP, f/1.8, (wide), 1/2?, 0.8µm, PDAF; 8 MP, f/2.2, 13mm (ultrawide), 1/4?, 1.12µm; 2 MP, f/2.4, 1/5?, 1.75µm (dedicated macro camera); 2 MP, f/2.4, 1/5?, 1.75µm, depth sensor; LED flash, HDR, panorama
+Video: 2160p@30fps, 1080p@30fps, gyro-EIS
+Kamera Selfie: Single 13 MP, f/2.0, 26mm (wide), 1/3?, 1.12µ; HDR, panorama; Video 1080p@30fps
+USB: microUSB 2.0, USB On-The-Go
+NFC: Tidak ada
+Sidik Jari: Ada
+Baterai: Li-Po 5000 mAh, charging 10W
+Warna: Crystal Purple, Crystal Blue, Crystal Red
+
+2. Realme XT
+Harga: Rp 3.999.000
+kamera 64mp realme xt
+Spesifikasi Realme XT:
+Layar: Super AMOLED 6,4 inci
+Resolusi:  2340×1080 piksel
+OS: Android 9.0 Pie, ColorOS 6
+Chipset: Snapdragon 712
+CPU: octa core 2,3 GHz
+GPU: Adreno 616
+Kamera Utama: 64MP, lensa ultrawide 8MP, lensa macro 2MP, depth sensor 2MP. 
+Kamera selfie: kamera selfie 16MP
+NFC: Tidak ada
+USB: Type-C
+Baterai: 4000mAh, VOOC Flash Charge 20W;
+
+#xiaomi                          = Not Info;
+
+#redmi                           = 1. Redmi Note 8
+Harga Rp 2.400.000
+hp redmi terbaru note 8
+Spesifikasi Redmi Note 8:
+Layar: IPS LCD 6.3 inches, 1080 x 2340 pixels, 19.5:9 ratio
+Chipset: Qualcomm SDM665 Snapdragon 665 (11 nm)
+CPU: Octa-core (4×2.0 GHz Kryo 260 Gold & 4×1.8 GHz Kryo 260 Silver)
+GPU: Adreno 610
+OS: Android 9.0 Pie
+RAM/ROM: 3/32GB, 4/64GB, 6/64GB, 4/128GB, 6/128GB 
+Memori Eksternal: microSD, up to 256 GB
+Kamera Belakang: 48 MP, f/1.8, 26mm (wide), 1/2?, 0.8µm, PDAF + 8 MP, f/2.2, 13mm (ultrawide), 1/4?, 1.12µm + 2 MP, f/2.4, 1/5?, 1.75µm (dedicated macro camera) + 2 MP, f/2.4, 1/5?, 1.75µm, depth sensor
+Kamera Selfie: 13 MP, f/2.0, 1.12µm
+Baterai: 4000 mAh
+
+2. Redmi Note 8 Pro
+Harga: Rp 2.900.000
+hp redmi terbaru note 8 pro
+Spesifikasi Redmi Note 8 Pro:
+Layar: IPS LCD 6.53 inches, 1080 x 2340 pixels, 19.5:9 ratio
+Chipset: Mediatek Helio G90T (12nm)
+CPU: Octa-core (2×2.05 GHz Cortex-A76 & 6×2.0 GHz Cortex-A55)
+GPU: Mali-G76 MC4
+OS: Android 9.0 (Pie)
+RAM/ROM: 6/64GB, 6/128GB, 8/128GB 
+Memori Eksternal: microSD, up to 256 GB
+Kamera Belakang: 64 MP, f/1.9, 26mm (wide), 1/1.7?, 0.8µm, PDAF + 8 MP, f/2.2, 13mm (ultrawide), 1/4?, 1.12µm + 2 MP, f/2.4, 1/5?, 1.75µm (dedicated macro camera) + 2 MP, f/2.4, 1/5?, 1.75µm, depth sensor
+Kamera Selfie: 20 MP, f/2.0, 0.9µm
+Baterai: 4500 mAh
+
+3. Redmi 8
+Harga: Rp 1.750.000
+HP redmi terbaru redmi 8
+Spesifikasi Redmi 8:
+Procesor: Octa-core 2.0GHz, Qualcomm Snapdragon 439
+Memori: 3GB+32GB dan 4GB+64GB
+Layar: 6.22” 19:9 HD+ Dot Drop
+Kamera: 12MP + 2MP di belakang
+Kamera selfie: 8MP 
+Baterai:  5000mAh dengan dukungan 18W QC3.0
+Dimensi: 156.48 x 75.41 x 9.4mm 
+Bobot: 190g
+Warna: Onyx Black, Sapphire, Blue, Ruby Red
+Sensor Fingerprint: Ada
+Bluetooth: Bluetooth 4.2
+SIM: Dual SIM + slot microSD 
+IR blaster: Ada 
+Lainnya: Wireless FM Radio, Corning Gorilla Glass 5 , Wireless FM Radio
+
+🔰Bot Official Nai Store🔰;
+
+#daftar                          = 「 PENDAFTARAN USER 」
+Thanks Telah Terdaftar Di Bot Nai Store ☕
+┏━━⬣ 𝙄𝙉𝙁𝙊  『 USER INFO 』  
+┃❏ 〽️ Nama : %nama
+┃❏ 〽️ Api : @%nama
+┃❏ 〽️ User : gratisan 😏
+┃❏ 〽️ Serial : 8cdb9d6c5f6c98d42c
+┃❏ 〽️ Total pengguna :105
+┗━━⬣;
+
+#cersex                          = Erly Gadis Perawan
+
+Kuperkenalkan dulu diriku, aku seorang yang berasal dari keluarga sederhana. Namaku Heri, umurku sekarang 23 tahun,aku akan menceritakan awal mula pertama kali melakukan hubungan badan dengan lawan jenis. Saat itu usiaku 18 tahun, aku baru saja lulus dari SMK swasta di kotaku, boleh dikata nilai ijazahku sangat memuaskan,lalu aku melamar pekerjaan ke salah satu perusahaan otomotif terkemuka di negeri ini, disaat aku menunggu panggilan kerja, Om ku datang menawarkan pekerjaan buat aku, katanya ada lowongan di tempat om bekerja, tapi posisinya sebagai OB alias appointment boy,waduuh apes banget gue, begitu ada yang nawarin pekerjaan tapi Cuma sebagai OB”pikirku, tapi nggak apa dech, itung- itung ngisi waktu buat nunggu panggilan kerja. Dihari pertama aku kerja di tempat om ku, sungguh diluar dugaanku. Ternyata karyawan ceweknya cantik2, banyak lagi. Wah kesempatan nih mumpung aku lagi jomblo, siapa tahu ada karayawati om yang mau sama aku,gumamku. Aku melihat salah seorang karyawati yang kuketahui bernama Erly, orangnya cantik, putih, tinggi badan kurang lebih 168 cm, ukuran bra kira-kira 36 C ditambah bodinya yang aduhai karena dia giat banget fitness,apalagi pantatnya yang besar,kalau dia lagi jalan,pantatnya naik turun yang bikin pikiran cowok yang memandangnya ingin meremas pantatnya,pernah suatu hari aku melihatnya diruang blow room,dia sedang menanggalkan blouse atasnya,saat itu aku liat dia Cuma pakai hem warna putih transparant yang seakan-akan terlalu kecil buat dia,seakan-akan ada yang nggak muat dibalik bajunya,mungkin karena teteknya terlalu gede kali,wah..wah..montok banget nih cewek, aku sudah membayangkan bagaimana kalau aku bisa meluk dia…pastinya angeeeet banget,Aku mulai cari informasi mengenai dia,apa yang dia suka dan apa yang dibencinya,tiap kali bertemu dia,aku selalu menyapanya..diapun membalas sapaanku..ada kemajuan nih pikirku. Selang waktu 2 bulan, keakraban kami bukan lagi sebagai atasan dan bawahan,saat aku capital kerumahnya diapun menyambutku dengan ramah.Sudah saatnya aku mengungkapkan perasaanku kalau aku sayang padanya.”Er aku mau ngomong sesuatu sama kamu,sebenarnya aku sudah absolutist pengin ngomong ini”dia jawab
+
+ngomong aja,”aku sebenarnya sayang sama kamu, kamu mau kan jadi pacar aku?lalu dengan ekspresi kaget di jawab” Her, berarti selama ini kamu salah tafsir tentang kebaikanku ke kamu,aku Cuma nganggap kamu teman,lagian kedudukan kita berbeda,aku sekretaris kantor sedangkan kamu Cuma OB”saat itu aku bagaikan tersambar petir,bukan masalah aku ditolak, tapi dia sudah menghina aku dengan kata-kata seperti itu.Saatnya aku bikin perhitungan sama dia,nggak masalah aku ditolak,tapi aku harus bikin dia takluk sama aku…besok harinya kebetulan dia kerja lembur karena dapat banyak tugas dari om ku,seandainya dia aku perkosa,jelas sekali kalau dia akan mengadukan aku ke polisi, tapi kalau aku bius, darimana aku bisa dapat Chloroform?akhirnya aku dapat ide, temenku pernah cerita kalau minuman bersoda bermerek s***** dicampur salah satu obat tetes mata I****,bisa bikin orang teler alias pingsan,segera aku membeli minuman serta obat tersebut. Begitu aku sampai kantor, aku campur minuman tadi dengan obat tetes mata dengan dosis beberapa 2 tetes, aku pura2 ngasih sama dia minuman tadi, dengan alasan sebagai permintaan maaf atas kelancanganku dan berharap kita masih bisa temenan, awalnya dia nolak,tapi aku bilang ke dia kalau aku nggak ada maksud lain…biar tidak curiga lalu aku pura2 ijin pulang,tapi sebenarnya aku sembunyi di allowance direksi,aku intip dia dari ruang itu,aku liat dia mulai teguk minuman yang aku kasih tadi,ternyata benar juga,dalam hitungan menit dia langsung jatuh pingsan diatas kursi kerjanya,wah inilah kesempatanku,aku datangi dia lalu aku coba bangunin dia,siapa tau dia Cuma tertidur….aku colek tangannya dia diem,lalu aku colek teteknya,dia tetep diem…ehhh ternyata beneran dia pingsan,dia kusandarkan dikursi,aku jongkok didepannya,lalu aku peluk dia erat2,akhirnya apa yang aku impikan selama ini tercapai,awalnya aku remas teteknya yang gede itu dari luar pakaiannya,wihh kenyal banget pentilmu Er,ooohhh…enak banget Erly,lalu aku mulai mencium bibirnya yang seksi,aku kulum sampai bibirnya memerah,slurp…oh enak banget…slurp…slurp, aku mulai turun mencumbu lehernya,lalu melepas blousenya, mulai kubuka kancing bajunya satu persatu,wowwww……tiba tiba aku terbelalak seakan tak percaya dengan apa yang aku lihat,tetek loe gede banget Er,ini beneran tetek? Kok bent segedesemangka gini…???lalu aku lanjutin membuka BH nya,wiiiii… what a nice tits babe…..aku rasa tetekmu ini lebih dari 36 C,atau mungkin
+
+tepatnya 39 C, American cup admeasurement man..pokoknya malam ini loe harus muasin gue,mulai kukulum putingnya yang berwarna merah muda,dan putingnya yang belum nongol,apa mungkin dia sama sekali belum dijamah sama cowok ya? Pikirku,aku mulai menjilati ujung teteknya, kadang aku gigit sampai ada bekas di teteknya,aku makin bergairah saja,aku remas teteknya yang kenyal banget, habisnya kayak bola karet,he..he..kukulum2 sampai putingnya mulai mengeras,lalu aku mulai menjilati pusarnya dan akhirnya kulepas roknya yang seksi itu,Erly aku udah nggak sabar nih,pengin masukin kon***ku ke lubang vag***mu, begitu roknya terlepas dari kakinya,kulihat celana dalamnya yang makin bikin aku bertambah gairah, dia memakai tounge G-string(celana dalam seksi yang kayak tali),yang biasa dipake bule saat berjemur di pantai (kayak yang aku liat di tivi),transparan lagi….aku jilati pahanya yang putih mulus,lalu aku sampai pada ujung pangkal pahanya,mulai kuturunkan celana dalamnya,pelan-pelan aku menghayati aksiku,aku lihat pemandangan yang luar biasa,vag***nya menggelembung kayak seonggok daging,dan mataku tertuju pada klitorisnya yang sedikit basah kemerahan,dengan ditumbuhi bulu halus disekitar agency kewanitaannya.Waduh harus cepet-cepet nih masukin barang gue,udah ngaceng keatas gini…aku mulai menjilati dengan ganasnya,lalu aku buka bibir kemaluannya,kujilati terus tanpa henti,Erly ini saatnya gue masukin tongkol gue ke vag*** loe,kon*** gue udah nggak tahan nih,aku tanggalkan semua pakaianku,kini kami berdua telanjang tanpa sehelai benangpun,aku geser tubuhnya sedikit lalu aku angkat kaki kanannya…..aku tempelkan kon***ku ke vaginanya,mula-mula kugosokkan pelan-pelan mulai dari bibir atas vag***nya yang sudah basah oleh liurku,ini backbone sih lubangnya? Susah amat nyarinya,pembaca harap maklum, saat itu aku baru pertama kali ngelakuin yang namanya chargeless sex,begitu ketemu,aku tekan maju mundur dengan pelan2,kok sempit banget pikirku…oke,aku akan paksa kont**ku ngambil perawan loe Er..satu..dua..tiii..gaaaaa…preeet..preett,kok kayak ada yang sobek?? Tapi apa’an ya,awwwww yes…kont**ku dah masuk separuh,tapi rasanya ada yang ngilu di pusakaku ini,kayak kejepit pintu..tapi bedanya ini rasanya enak banget,kutarik pelan-pelan,kudorong lagi..blesssss..akhirnya kont**ku masuk sepenuhnya,lalu mulai kugenjot dia sampai teteknya yang montok itu bergoyang keatas dan kebawah,Er enak banget memiaw
+
+loe,udah cantik,putih,montok ditambah memiawmu yang sempit ini,beruntung banget aku….kugenjot dia selama setengah jam,Er gue mau kluar nih,kluarin didalem aja ya….langsung kuluberkan spermaku kedalam vag***nya crooott…croott,ohhh…ohhh… begitu kont** aku tarik keluar,ada bekas noda darah dikemaluanku, juga pada memiawnya,ternyata dia masih perawan ooiiii….lumayan ML pertama kali dapet bidadari perawan,setelah istirahat 5 menit,kuangkat dia keatas meja,kutaruh dia dengan posisi tengkurap,lalu aku ent*t lagi memiawnya dari belakang,kuremas teteknya,oohhh..opffhh….yes…oh my god…(biar kayak di film2 porno gitu),enak er…terusin ya sayang,aku lebarkan lagi kakinya dengan posisi badan membungkuk diatas meja,kupeluk dia sambil terus meremas toketnya yang yahud,sampai-sampai genjotanku terdengar suara..creeek..creeek…ccreeek…aku masih belum puas,lalu kurapikan lagi pakaiannya,mulai dari baju, blouse sampai roknya,tapi tanpa BH dan celana dalamnya,gue akan lebih puas kalau ngent*t loe dengan pakaian utuh,biar kayak karyawan kantor yang lagi ngelakuin activity secara sembunyi,lalu aku duduk dikursi,kutaruh dia diatasku dengan posisi membelakangiku,tangan kiriku meremas teteknya dari belakang,sedang tangan kananku menelusup kedalam roknya,aku arahkan lagi rudalku kearah vag***nya,dan bleeess…ohhh…enak banget Erly,oohhh…ngent*t loe dari belakang sambil megang toket loe,oohh..nggak tahan neh Er,gue mau keluar lagi nih….croott..croott…legaaa….aku bangun lagi,lalu aku telentangkan dia dilantai,kubuka lagi kancing bajunya,Erly aku pengin ngent*t toket loe nih….kuhisap dulu pentilmu ya,sluuuurp….sluuuurp…segeeeerr….enaaak banget kalo minum susu dari sumbernya,lalu kutaruh ludahku ditengah toketnya yang putih mulus itu,biar licin gitu….kutempatkan kont**ku di situ,kutekan toketnya dari samping kiri kanan biar bisa menjepit kont**ku,mulai ku maju mundurkan rudalku,,wowwwww…..what absurd tits honey,I ‘d never acquainted like this afore ( ya iyalaaahh,namanya juga baru pertama kali ngesexnya),kont**ku Cuma kliatan helmnya,seakan-akan kont**ku tertelan sama toketnya erly,,apalagi saat aku duduk diatas tubuhnya,pantatku terasa angeet banget,dan pahaku terasa bergetar saat terbentur toketnya yang montok dan kenyal itu,makin kupercepat gerakanku,makin terasa nikmat…ploook…plokk…plook…ohhhh…aohhhh…terusin ya sayang,toketmu bener2 luar biasa,sambil aku remas pentilmu yang gede dan putih ini,putingmu aku pelintir ya,biar makin nongol keatas,babe,my agent appetite to cum’….mau kluar nih saying,udah nggak tahan,crooottt…crooot….crooottt….spermaku keluar membasahi wajahnya yang cantik,,thanks honey…malam ini gue bener-bener puas,loe udah ngelayanin gue sampai kont**ku nggak sanggup berdiri lagi,lalu aku ambil tisu sama air buat bersihin dia,lalu kurapikan pakaiannya seakan-akan tak terjadi apa-apa,nggak terasa sudah 3 jam aku melampiaskan nafsuku sama erly,saat aku hendak keluar dari ruangan tersebut…tiba-tiba……terdengar suara seorang cewek yang memanggilku, mas….mas heri bangun…udah siang nih…mau narik nggak….jam segini masih molor,ooohhh sialan ternyata semua Cuma khayalan mimpiku,aku dibangunin sama istriku yang namanya juga erly tapi jauh banget dari apa yang aku impikan tadi,dia gendut, pendek,kulitnya item,ditambah lagi kerjanya sebagai penjual jamu gendong, sedangkan aku sendiri bekerja sebagai tukang becak……sekian…!!!!!;
+
+#cersex2                         = Namaku Eliza. Cerita ini terjadi saat usiaku masih 17 tahun. Waktu itu, aku masih duduk di kelas 2 SMA swasta yang amat terkenal di Surabaya. Sekilas tentang diriku, aku seorang gadis Chinese dengan tinggi badan 157 cm dan berat 45 kg. Rambutku hitam panjang sepunggung. Kata orang orang, wajahku cantik dan bentuk tubuhku sangat ideal. Namun entah apa aku harus bersyukur atau menyesalinya. Mungkin karena daya tarikku ini, aku mengalami malapetaka di hari Sabtu, tanggal 18 Desember 2004.
+
+Seminggu setelah perayaan ultahku yang ke 17 ini, dimana aku akhirnya mendapatkan SIM karena sudah cukup umur, maka aku ke sekolah dengan mengendarai mobilku sendiri, mobil hadiah ultahku. Sepulang sekolah, jam menunjukkan waktu 18:30. Aku sekolah siang, jadi pulangnya sampai begitu malam. Dan saat itu tiba tiba aku merasa perutku sakit dan mulas, jadi aku memutuskan buang air di WC sekolah.
+
+Karena aku bawa mobil sendiri, jadi dengan santai aku buang air di WC sekolah, tanpa harus kuatir merasa sungkan dengan adanya seorang sopir yang menungguku. Yang mengherankan dan sekaligus menjengkelkan, aku harus bolak balik ke WC sampai 5 kali. Mungkin setelah tak ada lagi yang bisa dikeluarkan, baru akhirnya aku berhenti buang air. @TelurRebus
+
+Namun perutku masih terasa mulas. Maka aku memutuskan untuk mampir ke UKS sebentar dan mencari minyak putih. Aku masuk ke ruang UKS, menyalakan lampunya dan menaruh tas sekolahku di meja yang ada di sana, lalu mencari cari minyak putih di kotak obat. Setelah ketemu, aku membuka kancing baju seragamku di bagian perut ke bawah, dan mulai mengoleskan minyak putih itu untuk meredakan rasa sakit perutku.
+
+Aku amat terkejut ketika tiba tiba pintu ruang UKS ini terbuka, dan ternyata yang membuka adalah tukang sapu di sekolahku yang bernama Hadi. Aku yang sedang mengolesi perutku dengan minyak putih, terkesiap melihat dia menyeringai, dan aku menyadari 3 kancing baju seragamku dari bawah terbuka, memperlihatkan perutku yang rata dan putih mulus ini padanya.
+
+Belum sempat aku berpikir tentang apa yang harus aku lakukan, Hadi sudah mendekatiku, menyergapku, menelikung tangan kananku ke belakang punggungku dengan tangan kanannya, dan ia segera membekap mulutku erat erat dengan tangan kirinya.
+
+“Eeemph… eeemph…”, aku meronta ronta, dan berusaha menjerit.
+
+Dengan panik aku berusaha melepaskan bekapan pada mulutku dengan tangan kiriku yang masih bebas. Namun apa arti tenaga seorang gadis yang mungil sepertiku menghadapi seorang lelaki yang tinggi besar seperti Hadi ini? Aku benar benar dalam keadaan tak berdaya.
+
+Mataku terbelalak ketika masuk lagi seorang tukang sapu yang lain, yang bernama bernama Yoyok.
+
+“Girnooo”, Yoyok melongok keluar pintu dan berteriak memanggil satpam di sekolahku. @TelurRebus
+
+Aku sempat merasa lega, kukira aku akan selamat dari cengkeraman Hadi. Tapi ternyata Yoyok yang mendekati kami bukannya menolongku, malah memegang pergelangan tangan kiriku dengan tangan kanannya, sementara tangan kirinya mulai meremasi payudaraku. Kembali aku berusaha meronta.
+
+“Wah baru kali ini ada kesempatan pegang pegang susu amoy… ini non Eliza yang sering kamu bilang itu kan Had?”, tanya Yoyok pada Hadi.
+
+“Iya Yok, amoy tercantik di sekolah ini. Betul gak?” kata Hadi.
+
+Sambil tertawa Yoyok makin keras meremasi kedua payudaraku. Aku menggeliat kesakitan dan terus meronta mencoba melepaskan diri, sambil berharap semoga Girno yang sering mendapat uang tips dariku untuk kesediaannya mengantrikan aku bakso kesukaanku tiap istirahat sekolah, tidak setega mereka berdua yang sudah seperti kerasukan iblis ini.
+
+Tapi aku langsung sadar kalau aku dalam bahaya besar. Yang memanggil Girno tadi itu kan Yoyok. Jadi sungguh bodoh bila aku berharap banyak pada Girno yang kalau tidak salah memang pernah aku temukan sedang mencuri pandang padaku. Ataukah… ?
+
+Beberapa saat kemudian Girno datang, dan melihatku diperlakukan seperti itu, Girno malah menyeringai dan aku merasa mimpi burukku akan segera menjadi kenyatan.
+
+“Dengar, kalian jangan gegabah… non Eliza ini kita ikat dulu di ranjang UKS ini. Setelah jam 8 malam, gedung sekolah ini pasti sudah kosong. Itulah saatnya kita berpesta kawan kawan!”, kata Girno.
+
+Maka lemaslah tubuhku setelah aku tahu Girno ada di pihak mereka. Dengan mudah mereka membaringkan tubuhku di atas ranjang UKS. Kedua tangan dan kakiku sudah direntangkan, dan diikat erat pada sudut sudut ranjang ini. Berikutnya, dua kancing bajuku yang belum lepas, dilepaskan oleh Hadi, hingga terlihat kulit tubuhku yang putih mulus, serta bra warna pink yang menutupi payudaraku.
+
+“Pak Girno… tolong jangan begini pak…”, aku memohon dan rasa putus asa mulai menghinggapiku.
+
+Ratapanku ini dibalas ciuman Girno pada bibirku. Ia melumat bibirku dengan penuh nafsu, sampai aku megap megap kehabisan nafas, lalu ia menyumpal mulutku supaya aku tak bisa berteriak minta tolong.
+
+“Non Eliza, tenang saja. Nanti juga non bakalan merasakan surga dunia kok”, kata Girno sambil tersenyum memuakkan. @TelurRebus
+
+Kemudian Girno memerintahkan mereka semua untuk kembali melanjutkan pekerjaannya, dan mereka meninggalkanku sendirian di ruang UKS sialan ini. Girno kembali ke posnya, Hadi dan Yoyok berkata mau meneruskan pekerjaannya menyapu beberapa ruangan kelas yang belum disapu. Dan kini aku yang ditinggal sendiri hanya bisa pasrah menunggu nasib.
+
+Aku bergidik membayangkan apa yang akan mereka lakukan terhadapku. Dari berbagai macam cerita kejahatan yang aku dengar, aku mengerti mereka pasti akan memperkosaku ramai ramai. Sakit perutku sudah hilang berkat khasiat minyak putih tadi, tapi aku sama sekali tidak sedang bahagia.
+
+II. Pembantaian Dimulai
+
+Detik demi detik berlalu begitu cepat, tak terasa setengah jam sudah berlalu. Jam di ruang UKS sudah menunjukkan pukul 20:00. tibalah saatnya aku dibantai oleh mereka. Hadi masuk, diikuti Yoyok, Girno, dan celakanya ternyata mereka mengajak dua orang satpam yang lain, Urip dan Soleh. Aku menggigil ketakutan, entah seperti apa keadaanku nanti setelah diperkosa oleh lima orang ini.
+
+“Hai amoy cantik… sudah nggak sabar menunggu kami ya?”, kata Hadi.
+
+Dengan mulut yang tersumpal sementara tangan dan kakiku terikat, aku hanya bisa menggeleng nggelengkan kepala, dengan air mata yang mengalir deras pada kedua pipiku, aku memandang mereka memohon belas kasihan, walaupun aku sadar hal ini tak akan ada gunanya.
+
+Mereka hanya tertawa dan dengan santai mereka membuka ikatan ikatan pada kedua pergelangan tangan dan kakiku, lalu tanpa mendapatkan perlawanan sedikitpun dariku, mereka melepaskan baju dan rok seragam sekolahku, hingga aku tinggal mengenakan bra dan celana dalam yang warnanya sedikit pink.
+
+Melihat diriku yang sudah pasrah tak berdaya, mereka bersorak gembira, mengerubutiku dan mulai menggerayangi tubuhku.
+
+Aku masih sempat memperhatikan, betapa kulit mereka itu hitam legam dan kasar dibandingkan kulitku yang putih mulus dah halus, membuatku merasa ngeri juga ketika memikirkan tubuhku akan segera dijarah habis oleh mereka. @TelurRebus
+
+Aku kembali meronta, tidak rela menerima nasib yang buruk ini. Tapi tiba tiba perasaanku tersengat ketika jari-jari Girno menyentuh selangkanganku, menekan nekan vaginaku yang masih terlindung celana dalamku. Aku tak tau sejak kapan, tapi bra yang aku pakai sudah lenyap entah kemana, dan payudaraku diremas remas dengan brutal oleh Hadi dan Yoyok, membuat tubuhku rasanya panas dingin. Belum lagi mereka akhirnya mengikatku lagi dalam posisi seperti tadi, mungkin karena aku terlalu banyak meronta.
+
+Selagi aku masih kebingungan karena baru pertama kalinya ini aku merasakan sensasi sentuhan lelaki yang melanda tubuhku, Urip mendekatiku, melepas sumpalan pada mulutku, dan melumat bibirku habis habisan. Aku semakin gelagapan, apalagi kemudian Soleh meraba dan membelai kedua pahaku.
+
+Dikerubuti dan dirangsang sedemikan rupa oleh 5 orang sekaligus tanpa bisa berbuat apa apa karena kedua tangan dan kakiku terikat erat di empat sudut ranjang ini, aku merasakan gejolak luar biasa melanda tubuhku yang tanpa bisa kukendalikan.
+
+Aku merasakan betapa tubuhku berkelojotan dan mengejang hebat. Berulang kali tubuhku terlonjak lonjak sampai beberapa saat lamanya, dan kakiku melejang lejang, rasanya seluruh tubuhku bergetar.
+
+“Oh… augh… ngggg… aaaagh…” aku mengerang dan menjerit keenakan dan keringatku membanjir deras.
+
+Aku merasa seperti buang air kecil, tapi yang keluar hanya sedikit, dan baru kali ini aku merasakan kenikmatan yang amat sangat seperti ini. Aku mengerti sekali bahwa tadi itu aku baru saja mengeluarkan cairan cintaku, karena aku mengalami orgasme.
+
+Aku memang pernah bermasturbasi walaupun hanya menggesek gesekkan jariku pada bibir liang vaginaku sampai akhirnya aku mengeluarkan cairan cintaku. Tapi aku merasa kalau yang keluar itu tak sebanyak yang tadi, dan semua yang kurasakan tadi jauh lebih nikmat dibandingkan ketika aku mencapai orgasme saat bermasturbasi. Aku merasakan sensasi yang luar biasa dengan adanya sentuhan lelaki, yang baru pertama kali kurasakan.
+
+Tadi itu cairan cintaku keluar banyak sekali, dan aku merasa kelelahan dan lemas sekali. Kini aku hanya diam pasrah terbaring di tengah kerumunan para pemerkosaku ini.
+
+“Enak ya non? Hahaha… nanti non pasti minta tambah”.
+
+Aku tak melihat siapa yang bicara, tapi aku tahu itu suara Yoyok, dan aku malas menanggapi ucapan yang amat kurang ajar dan merendahkanku itu. @Telur Rebus
+
+“Non Eliza, kami akan melepaskan ikatanmu. Jika non Eliza tidak macam macam, kami akan melepaskan non setelah kami puas. Tapi jika non Eliza macam macam, non akan kami seret ke mess kami. Dan non tahu kan apa akibatnya? Di situ non tidak hanya harus melayani kami berlima, tapi seluruh penghuni mess kami. Mengerti ya non?”, kata Girno kepadaku.
+
+Mendengar hal itu, aku merasa ngeri dan hanya bisa mengangguk pasrah, berharap aku cukup kuat untuk melalui ini semua.
+
+“Jangan bawa saya ke sana pak. Saya akan menuruti kemauan bapak bapak. Tapi tolong, jangan lukai saya dan jangan hamili saya. Dan lagi, saya masih perawan pak. Tolong jangan kasar… tolong jangan keluarkan di dalam ya?” aku memohon dengan sungguh sungguh dalam rasa ngeri membayangkan aku harus dibawa ke mess mereka, juga rasa ngeri akan kemungkinan hamil akibat diperkosa ramai ramai ini.
+
+Aku pernah mendengar jumlah penghuni mess itu ada sekitar 60 orang. Mereka yang tinggal di sana adalah gabungan satpam, tukang sapu dan tukang kebun dari SMA tempat aku sekolah ini, ditambah dari SMP dan SD yang memang masih sekomplek, maklum satu yayasan. Daripada aku akan lebih menderita diperkosa oleh sekitar 60 orang, lebih baik aku menuruti apa mau mereka yang ‘cuma’ berlima ini.
+
+Dan aku benar benar berharap agar tak ada yang melukaiku, berharap mereka tidak segila itu untuk menindik tubuhku, trend yang kudengar sering dilakukan oleh pemerkosanya… menindik puting susu korbannya. Aku benar benar takut kalau aku harus mengalami semua itu.
+
+“Hahaha, non Eliza, sudah kami duga non memang masih perawan. Nona masih polos, dan tidak mengerti kalo kami suka memandangi tubuh nona yang sexy. Kami selalu memimpikan memperawani non Eliza yang cantik ini sejak non masih kelas 1 SMA. Minggu lalu, ketika non ulang tahun ke 17 dan merayakannya di kelas, bahkan memberi kami hadiah makanan. Maka kami sepakat untuk membalas kebaikan non dengan memberi non kenikmatan surga dunia.”, kata Girno.
+
+“Tenang saja non. Kami memang menginginkan tubuh non, tapi kami tak sekejam itu untuk melukai tubuh non yang indah ini. Dan kalo tentang hamil, non Eliza tenang saja. Kami sudah mempersiapkan semua itu. Seminggu terakhir ini, aqua botol yang non titip ke saya, saya campurin obat anti hamil. Sedangkan yang tadi, saya campurin obat anti hamil sekaligus obat cuci perut. Non Eliza tadi sakit perut kan? Hahaha…” jelas Girno sambil tertawa, tertawa yang memuakkan. @Telur Rebus
+
+Jadi memang ini semua sudah direncanakannya! Kurang ajar betul mereka ini. Aku memberi mereka makanan hanya karena ingin berbagi, tanpa memandang status mereka. Tapi kini balasannya aku harus melayani mereka berlima. Apa salahku terhadap mereka?
+
+Hari ini aku akan diperkosa ramai ramai oleh mereka, dan mereka akan mengeluarkan sperma mereka di dalam rahimku sepuasnya tanpa kuatir menghamiliku. Lebih tepatnya, tanpa aku kuatir harus hamil oleh mereka.
+
+Membayangkan hal ini, entah kenapa tiba tiba aku terangsang hebat, dan birahiku naik tak terkendali. Aku tanpa sadar menanti dan berharap mereka akan memberikanku kenikmatan lagi seperti yang tadi baru melandaku.
+
+Mereka semua mulai melepas semua pakaian mereka, dan ternyata penis penis mereka sudah ereksi dengan gagahnya, membuat jantungku berdegup semakin kencang melihat ukuran penis penis itu yang begitu besar. Dan penis penis itu, akan memasuki tubuhku, bergantian menyiksa liang vaginaku.
+
+Girno mengambil posisi di tengah selangkanganku, sementara yang lain melepaskan ikatan pada kedua pergelangan tangan dan kakiku. Girno menarik lepas celana dalamku. Kini aku sudah telanjang bulat dan tubuhku yang putih mulus terpampang di depan mereka yang terlihat semakin bernafsu.
+
+“Indah sekali non Eliza, memeknya non. Rambutnya jarang, halus, tapi indah sekali”, puji Girno.
+
+Memang rambut yang tumbuh di atas vaginaku amat jarang dan halus. Semakin jelas aku melihat penis Girno, dengan diameter sekitar 5 cm dan panjang yang sekitar 16 cm.
+
+“Pak, pelan pelan pak ya…” aku mencoba mengingatkan Girno.
+
+Ia yang hanya menganguk sambil tersenyum memandangi diriku, membuatku merasa jengah dan memalingkan mukaku, tak ingin memandang orang yang akan merenggut keperawananku ini. Girno menggesek gesekkannya kepala penisnya yang sudah menempel pada bibir vaginaku, membuatku semakin terangsang. @Telur Rebus
+
+Aku menyadari bahwa mereka sudah tidak lagi memegangi pergelangan tangan dan kakiku yang sudah tidak terikat. Mungkin karena mereka sudah yakin, aku yang telah mereka taklukkan ini tak akan melawan atau mencoba melarikan diri, dan memang aku tak berani melakukan hal itu. Kini mereka sudah mengerubutiku kembali, seperti segerombolan serigala memperebutkan seekor kelinci putih yang manis.
+
+III. Terenggutnya Keperawananku
+
+Kedua payudaraku kembali diremas remas oleh Hadi dan Yoyok, sementara Urip dan Soleh bergantian melumat bibirku. Rangsangan demi rangsangan yang kuterima ini, membuat aku orgasme untuk yang ke dua kalinya. Kembali tubuhku berkelojotan dan kakiku melejang lejang, bahkan kali ini aku meraskan cairan cintaku sepertinya menyembur keluar.
+
+“Eh… non Eliza ini… belum apa apa sudah keluar dua kali, pake muncrat lagi. Sabar non, kenikmatan yang sesungguhnya akan segera non rasakan. Tapi ada bagusnya juga lho, memek non pasti jadi lebih licin, nanti pasti lebih gampang ditembus ya”, ejek Girno sambil mulai melesakkan penisnya ke vaginaku.
+
+“Aduh… sakit pak” erangku.
+
+“Tenang non, nanti juga enak”, kata Girno.
+
+Kemudian ia menarik penisnya sedikit, dan melesakkannya sedikit lebih dalam dari yang tadi. Rasa pedih yang amat sangat melanda vaginaku, yang meskipun sudah begitu licin, tapi tetap saja karena penis itu terlalu besar, Girno kesulitan untuk menancapkan penisnya ke vaginaku. Namun dengan penuh kesabaran, Girno terus memompa masuk penisnya dengan lembut hingga tak terlalu menyakitiku.
+
+Lambat laun, ternyata memang rasa sakit di vaginaku mulai bercampur rasa nikmat yang luar biasa. Dan Girno terus melakukannya, menarik sedikit, dan menusukkan lebih dalam lagi, sementara yang lain terus melanjutkan aktivitasnya sambil menikmati tontonan proses penetrasi penis Girno ke dalam vaginaku.
+
+Hadi dan Yoyok mulai menyusu pada kedua puting payudaraku yang kurasakan sudah mengeras karena terus menerus dirangsang sejak tadi.
+
+Tak lama kemudian, aku merasakan selangkanganku sakit sekali dan menghapus semua nikmat yang sempat kuterima tadi. Entahlah, rupanya akhirnya selaput daraku robek.
+
+“Ooh… aauugggh… hngggkk… aaaaagh…”, aku menjerit kesakitan, seluruh tubuhku mengejang, dan air mataku kembali mengalir tanpa bisa kutahan. Keringatku juga mengucur deras. @Telur Rebus
+
+Aku ingin meronta, tapi rasa sesak dan sakit di liang vaginaku membatalkan niatku. Aku hanya bisa mengerang, dan gairahku pun padam dihempas rasa sakit yang nyaris tak tertahankan ini.
+
+“Aduh… sakit pak Girno… ampun”, aku mengerang dan memohon pada pak Girno.
+
+Namun Girno hanya tertawa tawa, mungkin karena ia puas telah berhasil memperawaniku, dan yang lain malah bersorak, “terus… terus…”.
+
+Aku menggeleng gelengkan kepalaku ke kanan dan ke kiri menahan sakit, sementara bagian bawah tubuhku mengejang hebat, tapi aku tak berani terlalu banyak bergerak, dan berusaha menahan lejangan tubuhku supaya vaginaku yang penuh sesak itu tak semakin didera rasa sakit. Lumatan penuh nafsu pada bibirku oleh Urip menahan gerakan kepalaku, dan ditambah belaian pada rambutku serta dua orang lelaki yang menyusu seperti anak kecil pada kedua payudaraku ini membuat gairahku yang sempat dipadamkan oleh rasa sakit tadi kembali menyala.
+
+Tanpa sadar, dalam kepasrahan aku mulai membalas lumatan pada bibirku. Girno terus memperdalam tusukannya penisnya yang sudah menancap setengahnya pada vaginaku. Dan Girno memang pandai memainkan vaginaku, kini rasa sakit itu sudah tak begitu kurasakan lagi, yang lebih kurasakan adalah rasa ngilu yang amat nikmat yang melanda selangkanganku. Penis itu begitu sesaknya walaupun baru menancap setengahnya, dan urat urat yang berdenyut di penis itu menambah sensasi yang kurasakan.
+
+“Oh sempitnya non. Enaknya… ah…”, Girno mulai meracau sambil terus memompa penisnya sampai akhirnya amblas sepenuhnya.
+
+Penis itu terasa seperti sedang menyodok bagian terdalam dari vaginaku, mungkin itu rahimku. Aku hanya bisa mengerang tanpa berani menggeliat, walaupun aku merasakan sakit yang bercampur nikmat.
+
+Mulutku ternganga, kedua tanganku mencengkeram sprei berusaha mencari sesuatu yang bisa kupegang, sementara kakiku terasa mengejang tapi kutahan. Aku benar benar tak berani banyak bergerak dengan penis raksasa yang sedang menancap begitu dalam di vaginaku.
+
+Dan setelah diam untuk memberiku kesempatan beradaptasi, akhirnya Girno memulai pompaanya. Aku mengerang dan mengerang, mengikuti irama pompaan si Girno. Dan erangangku kembali tertahan ketika kali ini dengan gemas Urip memasukkan penisnya ke dalam mulutku yang sedang ternganga ini.
+
+Aku gelagapan, dan kudengar Urip berkata, “Isep non. Awas, jangan digigit ya!”. @Telur Rebus
+
+Aku hanya pasrah, dan mulai mengulum penis yang baunya tidak enak ini, tapi lama kelamaan aku jadi terbiasa juga dengan bau itu. Penis itu panjang juga, tapi diameternya tak terlalu besar dibanding dengan penisnya Girno. Tapi mulutku terasa penuh, dan ketika aku mengulum ngulum penis itu, Urip memompa penisnya dalam mulutku, sampai berulang kali melesak ke dalam tenggorokanku. Aku berusaha supaya tidak muntah, meskupun berulang kali aku tersedak.
+
+Selagi aku berjuang beradaptasi terhadap sodokan penis si Urip ini, Soleh meraih tangan kananku, menggengamkan tanganku ke penisnya.
+
+“Non, ayo dikocok!”, perintahnya.
+
+Penis itu tak hampir tak muat di genggaman telapak tanganku yang mungil, dan aku tak sempat memperhatikan seberapa panjang penis itu, walaupun dari kocokan tanganku, aku sadar penis itu panjang.
+
+IV. Kedatangan Pak Edy Wali Kelasku
+
+Aku menuruti semuanya dengan pasrah, ketika tiba tiba pintu terbuka, dan pak Edy, guru wali kelasku masuk, dan semua yang mengerubutiku menghentikan aktivitasnya, tentu saja penis Girno masih tetap bersarang dalam liang vaginaku.
+
+Melihat semuanya ini, pak Edy membentak, “Apa apaan ini? Apa yang kalian lakukan pada Eliza?”.
+
+“Pak Edy, tolong saya pak. Lepaskan saya dari mereka”, aku merasa ada harapan, segera melepaskan kulumanku pada penis Urip, dan berkata dengan sedikit berteriak
+
+Pak Edy seolah tak mendengarku, dan berkata pada Girno, “Kalian ini… ada pesta kok tidak ngajak saya? Untung saya mau mencari bon pembelian kotak P3K tadi. Kalo begini sih, itu bon tidak ketemu juga tidak apa apa… hahaha…”.
+
+Aku yang sempat kembali merasa ada harapan untuk keluar dari acara pesta seks terhadap diriku ini langsung lemas dalam keputus asaan. @Telur Rebus
+
+Dengan kesal aku melanjutkan kocokan tanganku pada penis Soleh juga kulumanku pada penis Urip. Memang aku harus mengakui, aku menikmati perlakuan mereka, tapi kalau bisa aku juga ingin semua ini berakhir.
+
+Setelah sadar bahwa pak Edy juga sebejat mereka, semuanya tertawa lega.
+
+Sambil mulai melanjutkan pompaan penisnya pada vaginaku, Girno berkata, “Pak Edy tenang saja, masih kebagian kok. Itu tangan kiri non Eliza masih nganggur, kan bisa buat ngocok punya pak Edy dulu. Tapi kalo soal memeknya, ngantri yo pak. Abisnya, salome sih”.
+
+“Yah gak masalah lah. Ini kan malam minggu, pulang malam juga wajar kan?” katanya tertawa mengiyakan sambil melepas pakaiannya dan ternyata (untungnya) penisnya tidak terlalu besar, bahkan ternyata paling pendek di antara mereka.
+
+Tapi aku sudah tak perduli lagi. Vaginaku yang serasa diaduk aduk mengantarku orgasme yang ke tiga kalinya.
+
+“Aaaaagh…”, erangku yang tanpa sadar mulai menggenggam penis pak Edy yang disodorkan di dekat tangan kiriku yang memang menganggur.
+
+Pinggangku terangkat sedikit ke atas, kembali tubuhku terlonjak lonjak, entah ada berapa lamanya tersentak sentak, namun kini cairanku tak keluar karena vaginaku yang masih sangat sempit ini seolah dibuntu oleh penis Girno yang berukuran raksasa ini.
+
+Dalam kelelahan ini, aku harus melayani 6 orang sekaligus. Sodokan sodokan yang dilakukan Girno membuat gairahku cepat naik walaupun aku baru saja orgasme hebat. Tapi aku tak tahu, kapan Girno akan orgasme, ia begitu perkasa. Sudah 15 menit berlalu, dan ia masih menyiksaku, memompa liang vaginaku dengan garangnya.
+
+Desahan kami bersahut sahutan memenuhi ruangan yang kecil ini. Kedua tanganku mengocok penis dari Soleh dan pak Edy, wali kelasku yang ternyata bejat, membuatku agak bingung juga memikirkan apa yang harus kulakukan jika bertemu dengannya mulai Senin besok dan seterusnya saat dia mengajar di kelasku.;
+
+#cersex3                         = Si Cewek Imut
+
+Ini pengalamanku dengan anak kelas 6 SD. Aku tuh paling suka sama anak sekitar kelas 6 SD sampai 2 SMP. Kalau aku sendiri adalah mahasiswa tingkat satu di Bandung. Ceritanya pada waktu itu aku sedang jalan-jalan ke toko buku. Aku sedang ingin cari buku komik. Pas sedang cari itu, aku melihat anak yang manis, yah.. pokoknya cute banget deh! Putih, dan karena baju yang dipakainya agak ketat, buah dadanya yang agak baru tumbuh itu sedikit menjiplak di bajunya, jadi kelihatan runcing begitu.
+
+Aku ajak kenalan saja dia, siapa tahu bisa dapat. Tidak usah aku kasih tahu proses kenalannya ya, soalnya.. ya gitu deh.. pokoknya akhirnya aku tahu itu anak kelas 6 SD dan aku tahu nomor teleponnya. Oh iya, namanya adalah Ima, aku jadi lumayan sering menelepon dia. Habis ternyata anaknya asyik juga. Kami sering ngobrol tentang Boys Band yang dia suka, (bukan berarti aku suka Boys Band, kebetulan adikku banyak tahu, jadi aku ikut-ikutan tahu).Aku sudah beberapa kali ajak dia jalan-jalan ke Mall, tapi jarang mau. Sepertinya tidak dibolehi sama ibunya. Tapi akhirnya bisa juga. Sepertinya aku memang sedang falling in love sama si Ima. Setiap pulang sekolah, dia sering aku jemput, lucu deh, jadi seperti jemput adik sendiri, nanti aku dikira pembantu pribadinya sama temennya. Biarin deh, yang penting aku sayang sama Ima.
+
+Nah, pada suatu hari waktu dia pulang sekolah, aku ajak saja ke rumahku. Ternyata dianya mau. Asyik, pikirku. Habis dia tidak pernah mau aku ajak ke rumahku. Dan pas ketika kuajak ke kamarku, dianya mau saja dan untung tidak ada yang melihatku bawa-bawa anak SD, kan malu juga kalau ketahuan punya cewek anak SD. Setelah beberapa kali aku ajak ke rumah, baru kali ini dia mau dan mau lagi ke kamar. Kan kalau di kamar suasananya jadi lebih romance dan tenang karena berdua saja. Di kamar kustel kaset West Life, khan lumayan lembut tuh musiknya. Dia suka banget sama itu Boys Band. Pertama-tama kami ngobrol biasa tentang sekolahnya, guru-gurunya, temen-temennya, biasalah anak SD. Eh, kami akhirnya ngobrol tentang pacaran, aku tanya saja.
+
+"Pacar kamu siapa sih..?" sambil senyum.
+"Bukannya kamu.." jawabnya.
+Waduh, nih anak SD polos amat.. tapi aku seneng sih, dia ngakuin aku.
+"Iya nih Ma, aku sayang banget ama kamu," rayuku.
+Dianya diam sambil menatapku malu. Waduh wajahnya itu lho, masih Fresh dan dia manis sekali. Tiba-tiba, gara-gara meliat parasnya yang cute itu, aku jadi ingin mencium bibirnya, tapi dia mau tidak ya?
+
+"Sayang, kamu pernah ciuman belum?" tanyaku.
+"Belum, tapi suka deh ngeliat orang ciuman di film-film," katanya.
+"Mau nyobain tidak?" tanyaku, to the point saja.
+Dia diam saja.
+"Sama kamu? nggak ah, takut.. malu.." kata Ima.
+"Nggak apa-apa lagi.." jawabku.
+"Coba ya.. enak kok," kataku lagi.
+"Coba deh merem!" kataku.
+Dia mencoba merem, tapi melek lagi, takut katanya. Jantungnya terasa deg-degan, katanya.
+"Santai saja, tidak usah tegang," kataku.
+
+Dia mulai merem, perlahan aku dekati wajahnya, mulai terasa hembusan nafasnya. Lalu perlahan kusentuh bibirku dengan bibirnya. Ketika bibir kami mulai bersentuhan, bibirku mulai bermain di bibirnya, dia belum merespon. Dia hanya membiarkan bibirku memainkan bibirnya, terasa sekali hembusan nafasnya, bibirnya yang begitu lembut tapi akhirnya dia juga mulai memainkan bibirnya. Sekitar lima menit kami berciuman. Nafas dia terengah-engah ketika selesai berciuman. "Gimana enak tidak?" tanyaku. Dia cuma tersenyum malu-malu, "Mau lagi tidak? tapi sekarang lebih seru lagi, kumasukkan lidah ke mulut kamu, terus kamu nanti isep lidahku di dalem mulut kamu ya.. dan nanti gantian kamu yang masukin lidah ke mulutku, nanti kuisep," kata aku.
+
+Dia merem lagi, aku dekati bibirku. Begitu kena bibirnya, langsung aku masukkan lidahku, dia langsung menghisap, ah enak, geli dan nikmat, terasa di mulut. Setelah itu dia masukkan lidahnya ke mulutku, kuhisap lidahnya lengkap beserta ludah yang ada di mulutnya. Ketika sedang asyik berciuman itu, timbul ide nakal, aku mencoba meraba dadanya yang masih baru tumbuh. Ternyata dia tidak menolak, dia masih terus menikmati berciuman dengan aku. Aku masih terus meraba-meraba dadanya yang kalau dibilang sih masih kecil untuk ukuran buah dada, tapi aku suka sekali sama buah dada yang semacam itu, runcing dengan puting yang baru tumbuh. Aku mulai nekat, kucoba masukkan ke dalam balik bajunya, di balik kaus singletnya (dia belum pakai BH, tapi karena tidak pakai BH, putingnya yang baru tumbuh itu jadi menonjol keluar, jadi kelihatan agak runcing dadanya) terdapat gundukan kecil imut nan segar. Eh, ternyata dia mulai sadar dan menghentikan ciumannya.
+
+"Jangan dimasukkin dong tangannya," kata dia.
+Wah, tampaknya dia belum berani.
+"Maaf deh.. aku terlalu nafsu," kataku.
+"Eh, udah sore nih, kamu aku anter pulang dulu ya," kataku.
+Anak SD, kalau belum pulang sampai sore nanti dicariin, kan gawat kalau ibunya sampai tahu dia di kamarku. Akhirnya hari pertama dia di rumahku diakhiri dengan belajar ciuman.
+
+Besok-besoknya dia tidak pernah bisa main ke rumahku. Soalnya ibunya menjemput terus. Nah, seminggu setelah dia main ke rumahku, akhirnya dia mau lagi diajak ke rumahku. Pas pulang sekolah aku ajak masuk lagi ke kamarku.
+"Gimana sayang? masih mau terusin pelajaran ciuman kita minggu kemaren?" tanyaku.
+Dia tersenyum.
+"Mau dong.. yang pakai masukin lidah ya.." kata Ima.
+"OK deh.." jawabku.
+
+Dan mulailah kami ber-French kissing. Kami berciuman sampai beberapa menit. Tapi aku kepikiran lagi sama dada dia. Karena saking nafsunya aku ingin sekali merasakan dada cewekku ini. Aku mencoba minta ke Ima. "Ma.. aku pengen liat.. liat dada kamu boleh nggak..? Entar enak deh, bisa lebih enak dari pada ciuman," kataku. Dia diam saja sambil menatap ke arahku. Akhirnya dia mau juga setelah kubujuk. Dia aku suruh duduk di tempat tidurku. "Kamu tenang aja ya.." dia mengangguk. Aku perlahan-lahan membuka baju kemeja sekolahnya, satu per satu kancingnya kubuka. Dia menatapku dengan perasaan yang tegang. "Rilex aja lagi.. jangan tegang gitu.. tidak sakit kok," kataku. Akhirnya dia agak tenang.
+
+Begitu kebuka semua, wah, ternyata masih ada kaus singletnya yang menghalangi buah dada mininya itu. "Aku buka semua ya.." kataku. Dia mengangkat tangannya ke atas, lalu kubuka singletnya.Wow.. ternyata indah sekali man..! Kulitnya yang putih mulus, masih halus sekali, buah dadanya yang baru muncul itu menampakkan suatu kesan yang amat indah, putingnya berwarna pink itu, membuat lidahku ingin mengulumnya. Dengan perlahan kusentuhkan lidahku ke putingnya yang berwarna pink itu. (PS: Kalau mau mencoba sama anak yang baru tumbuh buah dadanya, hati-hati, soalnya daerah itu masih sensitif sekali. Kalau kesentuh keras sedikit saja, terasa sakit sekali sama dia. Bener tidak?).
+
+Lalu mulai kujilati dan tanganku mencoba menyentuh puting yang satu laginya. Dia merem ketika aku menjilati putingnya, dia tinggal memakai rok merah, seragamnya. Dia merem ketika aku menjilat, menghisap, menyentuh, meraba buah dada imutnya itu, dan dia mulai mendesah kenikmatan, "Ssshhssh.. mm.." desahnya, aku makin horny saja mendengarnya dan aku makin lancar mengerjai dadanya itu. Aku jilati bergantian kanan dan kiri, dan aku juga menjilati perutnya dan pusarnya. Sedang menjilati tubuhnya itu, eh, timbul lagi benak nakal. Bentuk vaginanya gimana ya? aku jadi penasaran gitu. Aku masukkan tanganku ke dalam roknya. Kuusap-usap CD-nya yang melapisi vagina imut-imut milik seorang anak kelas 6 SD yang manis itu.
+
+"Ima.. kamu mau tidak membuka rok kamu..?" tanyaku.
+"Mau kan sayang..?" tanyaku lagi.
+"Tapi tidak apa-apa kan?" tanya Ima.
+"Nggak kok.." kataku.
+Dia kusuruh tiduran. Aku membuka roknya, aku peloroti roknya, dia tinggal memakai celana dalamnya yang berwarna pink (lucu deh, ada gambar Hello Kitty-nya), dan akhirnya aku peloroti CD-nya. Terlihatlah sekujur tubuh telanjang seorang anak SD yang membuatku ingin menidurinya. Terlihat vagina yang masih mulus, belum ada bulunya dan bibir vaginanya yang mulus juga, dan aku nafsu sekali. Aku jilati vaginanya, dianya kegelian, sehingga badannya bergoyang ketika aku jilati bagian dalam vaginanya.
+
+Tapi lama-lama kupikir, aku jahat sekali, nih anak kan cewekku, masa aku tega sih. Ya sudah, aku selesai saja. Kalau aku sampai ML, berarti aku menghancurkan masa depan seorang anak. Aku terus menjilati vaginanya, dan aku terus menjilati bagian klitorisnya sampai dia bergoyang-goyang. Akhirnya dia mengalami orgasme, "Aahh.. aku lemes.." Akhirnya aku sudahi jilati vaginanya dan kucium pipinya.
+
+"Gimana enak kan..?" tanyaku.
+"Iya.."
+"Tidak apa-apa khan?" kataku.
+"Udah sore tuh kamu mau pulang..?" tanya aku.
+"Iya deh, tapi kapan-kapan lagi ya.." katanya.
+"Iya deh sayangku," kataku sambil kucium keningnya.
+Yah begitulah ceritanya, aku tidak tega untuk merenggut keperawanan cewekku sendiri. Aku sama Ima jalan sampai dua bulan saja, karena bosan. Aku tidak pernah nge-ML sama dia dan aku sudah berjanji tidak mau ML sama dia.;
+
+#poco                            = Not Info;
+
+#nokia                           = Not Info;
+
+#ytmp3       .                   = YT MP3
+
+https://www.download-sesuatu.my.id ;
+
+#ytmp4                          = YT MP4
+
+https://download-sesuatu.my.id ;
+
+#tiktokmp4                      = DWONLOAD VIDEO TIKTOK 
+NO WATERMAK
+
+https://www.download-sesuatu.my.id  ;
+
+#Bot on                         = KAU BUKAN OWNERKU;
+
+#Bot off                        = KAU BUKAN OWNERKU;
+
+#ban                            = KAU BUKAN OWNERKU;
+
+#unban                          = KAU BUKAN OWNERKU;
+
+#req                            = SILAKAN requests Menu anda disini @nizar901;
+
+#cekgay                         = 60% njir gay;
+
+#cekgay                         = 0.0000001 Hoki Parah lu;
+
+hai bot$                        = Hai %nama;
+halo$                           = Hai;
+^hai$                           = Hai juga;
+^bot$                           = ada yang bisa saya bantu?;
+
+^sekarang jam berapa$ |
+^jam berapa sekarang$ |
+^ini jam berapa$ |
+^jam berapa ini$                = Sekarang jam %jam : %menit;
+
+^sekarang tanggal berapa$ |
+^tanggal berapa sekarang$ |
+^ini tanggal berapa$ |
+^tanggal berapa ini$            = Sekarang tanggal %tanggal;
+
+^p$ | ^ping$ | ^woi$            = iya;

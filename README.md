@@ -30,7 +30,6 @@ $ php bot_telegram.php
 Selamat Bot Berjalan
 
 
-Kalo Di Lain Belum Di Coba Tapi kalo di google Cloud Bisa
 
 # User Google Cloud
 

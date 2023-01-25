@@ -1,5 +1,5 @@
 # Telegram-BOT
-Jangan Lupa Follow Github Saya Dan Channel Saya nizarrahman
+<p>Jangan Lupa Follow Github Saya Dan Istagram Saya <a href ="https://instagram.com/nizarrrahman.f_</a></p>
 
 # user Termux
 Command
@@ -15,7 +15,7 @@ $ apt install git
 
 $ git clone https://github.com/nizarrahman/telegram-bot
 
-$ cd Telegram-BOT
+$ cd telegram-bot
 
 edit masukin apikey dari @BotFather di file bot_telegram.php
 <img src="/imgg/contoh.png"></img>

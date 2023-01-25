@@ -1,5 +1,5 @@
 # Telegram-BOT
-<p>Jangan Lupa Follow Github Saya Dan Istagram Saya <a href ="https://instagram.com/nizarrrahman.f_</a></p>
+Jangan Lupa Follow Github Saya nizarrahman Dan Istagram Saya nizarrrahman.f_
 
 # user Termux
 Command
